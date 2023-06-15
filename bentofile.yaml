@@ -1,0 +1,9 @@
+service: "service:service"
+include:
+- "src/"
+- "poetry.lock"
+- "pyproject.toml"
+- "README.md"
+- "service.py"
+python:
+  pip_args: "-e /home/bentoml/bento/src/."
