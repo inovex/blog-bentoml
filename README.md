@@ -1,6 +1,3 @@
-# blog-post-bentoml
-
-
 # 🍱 BentoML
 
 For general infos on how to use BentoML check out our
