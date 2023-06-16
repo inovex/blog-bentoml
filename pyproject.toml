@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "blog-post-bentoml"
+name = "blog-bentoml"
 version = "0.0.1"
 description = "Example code for blog post showcasing bentoml"
 authors = ["Malte Büttner <malte.buettner@inovex.de>", "Nico Großkreuz <nico.grosskreuz@inovex.de"]
