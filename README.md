@@ -1,7 +1,6 @@
 # 🍱 BentoML
 
-For general infos on how to use BentoML check out our
-[BentoML](https://docs.bentoml.org/en/latest/index.html).
+This is the repo for the blog post [BentoML for MLOps: From Prototype to Production](https://www.inovex.de/de/blog/bentoml-for-mlops-from-prototype-to-production/). For general infos on how to use BentoML check out [BentoML](https://docs.bentoml.org/en/latest/index.html).
 
 <br>
 
